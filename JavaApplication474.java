@@ -1,5 +1,5 @@
 
-package javaapplication474;
+package Lesson5_03_10_2015;
 
 abstract class Component{
     
